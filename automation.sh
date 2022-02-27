@@ -1,7 +1,7 @@
 #!/bin/bash
 
 name="Shivendra"
-s3_bucket="upgrad-Shivendra"
+s3_bucket="upgrade-Shivendra"
 
 apt update -y
 
